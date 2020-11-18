@@ -1,0 +1,2 @@
+# PyIRC
+Python IRC Client
